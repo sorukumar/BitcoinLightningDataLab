@@ -8,7 +8,7 @@ Explore our work and resources around Bitcoin and Lightning.
 
 ### Read the "Bitcoin Express" Book
 
-You can access the "Bitcoin Express" book [here](https://sorukumar.github.io/BitcoinLightningLab/bitcoin_express/index.html).
+You can access the "Bitcoin Express" book [here](https://sorukumar.github.io/BitcoinLightningdataLab/bitcoin_express/index.html).
 
 
 ## Get Involved!
